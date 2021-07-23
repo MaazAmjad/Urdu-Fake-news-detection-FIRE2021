@@ -1,6 +1,7 @@
 # Urdu-Fake-News-Detection-FIRE2021
-                              ===========================
-
+                                
+                                             Urdu Fake News Dataset
+                                              ===========================
                                 
     Maaz Amjad, Grigori Sidorov, Alisa Zhila, Helena Gómez-Adorno, Ilia Voronkov, Alexander Gelbukh
                        Natural Language and Text Processing Laboratory
