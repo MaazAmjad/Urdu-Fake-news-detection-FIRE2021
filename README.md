@@ -1,1 +1,1 @@
-# Urdu-Fake-news-detection-FIRE2021
+# Urdu-Fake-News-detection-FIRE2021
