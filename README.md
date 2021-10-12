@@ -37,7 +37,7 @@ The class distribution for the fake and real news for each dataset is shown belo
 
 | Dataset        | Class | Entries |
 |:---------------|:-----:|--------:|
-|                | Fake  | 500     |
+|                | Fake  | 550     |
 | Bend the Truth |-------|---------|
 |                | Real  | 750     |
 
